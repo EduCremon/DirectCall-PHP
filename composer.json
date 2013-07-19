@@ -1,0 +1,8 @@
+{
+    "autoload": {
+        "psr-0": { "DirectCall\\": ["src/"] }
+    },
+    "require": {
+        "guzzle/guzzle": "dev-master"
+    }
+}
