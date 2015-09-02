@@ -1,4 +1,7 @@
 {
+    "name": "directcall/directcall",
+    "type": "library",
+    "description": "Directcall API",
     "autoload": {
         "psr-0": { "DirectCall\\": ["src/"] }
     },
