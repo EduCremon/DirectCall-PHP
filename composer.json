@@ -6,6 +6,6 @@
         "psr-0": { "DirectCall\\": ["src/"] }
     },
     "require": {
-        "guzzlehttp/guzzle": "5.2.0"
+        "guzzlehttp/guzzle": ">=5.2.0"
     }
 }
